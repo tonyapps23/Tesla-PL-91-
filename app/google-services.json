@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224216444691",
+    "project_id": "tesla-x-program-pl",
+    "storage_bucket": "tesla-x-program-pl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224216444691:android:10e8b782ca60001e2574e6",
+        "android_client_info": {
+          "package_name": "com.tony_fire.tesla_xprogrampl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224216444691-leh6347vn1dkrirlhr8nj4mdgdulfbg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-qK5EIal00CwLYwDWhGRcKFG4KszU1xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224216444691-leh6347vn1dkrirlhr8nj4mdgdulfbg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
